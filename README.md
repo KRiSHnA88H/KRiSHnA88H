@@ -1,4 +1,4 @@
-#Hey, I'm Krishna Khanchandani 👋
+Hey, I'm Krishna Khanchandani 👋
 
 Computer Science Engineering Student | AI/ML Enthusiast | Software Developer
 
