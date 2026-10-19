@@ -1,4 +1,4 @@
-#Hey, I'm Krishna Khanchandani 👋
+# Hey, I'm Krishna Khanchandani 👋
 
 Computer Science Engineering Student | AI/ML Enthusiast | Software Developer
 
@@ -16,7 +16,7 @@ I enjoy turning ideas into working projects — from retrieval-augmented generat
 
 🎯 Goal: Build reliable, useful software and contribute to meaningful engineering projects
 
-##📈 What I'm Working Toward
+## 📈 What I'm Working Toward
 
 Building end-to-end machine learning applications.
 
